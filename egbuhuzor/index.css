@@ -1,0 +1,17 @@
+    .body{
+        background-color: black;
+    }
+        .h1{
+        color: blue;
+        }
+        .right{
+            background-color:blue;
+            padding: 4rem;
+            
+        }
+        .left{
+            background-color: red;
+            padding: 4rem;
+                      
+        }
+    
